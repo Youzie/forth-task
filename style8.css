@@ -1,17 +1,15 @@
-/* チャプター6の課題1 */
-
-span1 {
-  color: blue;
+body {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-span2 {
-  background-color: deepskyblue;
-}
 
 /* チャプター6の課題2 */
-.button1 a {
+.button1 {
+  width: 1200px;
+  margin-top: 100px;
   text-align: center;
-  margin: 0 0;
   padding: 30px 70px;
   width: 100px;
   color: white;
@@ -21,6 +19,40 @@ span2 {
   background-color: coral;
   transition: 0.3s;
 }
+
+/* チャプター6の課題3 */
+.border-bottom {
+  width: 1200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+.font-weight {
+  width: 1200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+.font-size {
+  width: 1200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+.text-decoration {
+  width: 1200px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
 
 /* チャプター6の課題4 */
 body {
@@ -45,6 +77,11 @@ body {
     font-size: 18px;
   }
 
+  article {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
   /* コンタクト */
   .contact-body {
     font-size: 24px;
@@ -52,16 +89,17 @@ body {
   }
 
 .box1 {
-  display: inline-block;
   border: solid 6px green;
   padding: 20px 30px;
 }
 
-  span3 {
+  .mail-adress {
     color: rgb(5, 208, 5);
+    text-decoration: underline;
   }
 
-  span4 {
+  .web-site {
     color: rgb(116, 0, 139);
+    text-decoration: underline;
   }
 
