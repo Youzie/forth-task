@@ -6,18 +6,20 @@ body {
 
 
 /* チャプター6の課題2 */
-.button1 {
-  width: 1200px;
-  margin-top: 100px;
-  text-align: center;
-  padding: 30px 70px;
-  width: 100px;
-  color: white;
-  font-size: 20px;
-  font-weight: 500;
-  text-decoration: none;
-  background-color: coral;
-  transition: 0.3s;
+.button1 a {
+   text-align: center;
+   margin: 0 0;
+   padding: 1em 2em;
+   padding: 30px 70px;
+   width: 100px;
+   color: white;
+   font-size: 18px;
+   font-weight: 700;
+   font-size: 20px;
+   font-weight: 500;
+   text-decoration: none;
+   background-color: coral;
+   transition: 0.3s;
 }
 
 /* チャプター6の課題3 */
