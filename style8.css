@@ -1,0 +1,67 @@
+/* チャプター6の課題1 */
+
+span1 {
+  color: blue;
+}
+
+span2 {
+  background-color: deepskyblue;
+}
+
+/* チャプター6の課題2 */
+.button1 a {
+  text-align: center;
+  margin: 0 0;
+  padding: 1em 2em;
+  width: 100px;
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: coral;
+  transition: 0.3s;
+}
+
+/* チャプター6の課題4 */
+body {
+  font-family: times new roman, 'YuGothic';
+  }
+
+  .border-bottom {
+    display: inline-block;
+    font-family: 'YuGothic';
+    border-bottom: dotted 10px blue ;
+    color: red;
+    font-size: 38px;
+  }
+
+  .bodytext1 {
+    color: grey;
+    font-family: 'Times New Roman', Times, 'YuGothic';
+    font-size: 32px;
+  }
+
+  .bodytext2 {
+    font-size: 18px;
+  }
+
+  /* コンタクト */
+  .contact-body {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+.box1 {
+  display: inline-block;
+  border: solid 6px green;
+  padding: 20px 30px;
+}
+
+  span3 {
+    color: rgb(5, 208, 5);
+  }
+
+  span4 {
+    color: rgb(116, 0, 139);
+  }
+
